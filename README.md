@@ -1,10 +1,7 @@
 
-# AutoPy
+# AutoPy ![pitao (1)](https://user-images.githubusercontent.com/87454265/130340144-117f6171-a454-478f-a8a3-3aa9173eb20b.png)
 
-## Automatizando tarefas com Python  ![pitao (1)](https://user-images.githubusercontent.com/87454265/130340144-117f6171-a454-478f-a8a3-3aa9173eb20b.png)
-
-
-
+## Automatizando tarefas com Python  
 
 Desta vez, o algoritmo que desenvolvi visa baixar os arquivos das minhas respectivas apresentações e enviá-los para o e-mail do meu orientador de forma autônoma.
 
