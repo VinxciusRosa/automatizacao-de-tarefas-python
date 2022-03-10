@@ -1,4 +1,7 @@
-# Automatizando tarefas com Python  ![pitao (1)](https://user-images.githubusercontent.com/87454265/130340144-117f6171-a454-478f-a8a3-3aa9173eb20b.png)
+
+# AutoPy
+
+## Automatizando tarefas com Python  ![pitao (1)](https://user-images.githubusercontent.com/87454265/130340144-117f6171-a454-478f-a8a3-3aa9173eb20b.png)
 
 
 
